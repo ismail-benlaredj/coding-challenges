@@ -9,9 +9,9 @@ Each challenge's folder has a README file containing all information and resourc
 
 You run and test the solution by:
 
-*Install [Node.js(https://nodejs.org/en/)] 
+* Install [Node.js](https://nodejs.org/en/)
 
-*Install [nodemon(https://www.npmjs.com/package/nodemon)]
+* Install [nodemon](https://www.npmjs.com/package/nodemon)
 
 * In the challenges's folder directory, you can run
 
