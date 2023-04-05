@@ -4,11 +4,8 @@ const arr2 = [1, 2, 3, 4] //false
 const containsDuplicate = (arr) => {
     let ob = {}
     for (let i = 0; i < arr.length; i++) {
-        if (ob[arr[i]] !== undefined) {
-            return true
-        } else {
-            ob[arr[i]] = arr[i]
-        }
+        if (ob[arr[i]] !== undefined) return true
+        ob[arr[i]] = arr[i]
     }
     return false
 }
