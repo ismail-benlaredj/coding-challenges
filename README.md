@@ -3,7 +3,7 @@
 This Repo contains some coding challenges that test your knowledge of algorithms, data structures, 
 and mathematics. You can use these coding exercises to prepare for your next job interview or just for fun :v.
 
-Each challenge has a solution you can find a better solution than mine feel free to **contribute your solution**.
+## Each challenge has many solutions, these are my that I'm right with, you can find a better solution than mine feel free to **contribute your solution**.
 
 Each challenge's folder has a README file containing all information and resources about the challenges.
 
